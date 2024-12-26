@@ -11,7 +11,7 @@ Skills: ORCAD, Soldering, Jira, Confluence, Hardware testing/Debugging, SMT sold
 ### Epic Semiconductors - Application Engieer Co-op
 Skills: TinaTI, Spice, EasyEDA, Analog Design, microcontroller, wireless power, wireless communication
 
-[<img width="400px" src="photos/Epic Semiconductors CoOp/module2.jpg" />](https://github.com/armadail/Portfolio/tree/main/photos/Epic%20Semiconductors%20CoOp)
+[<img width="400px" src="photos/Epic Semiconductors CoOp/smartbutton2.jpg" />](https://github.com/armadail/Portfolio/tree/main/photos/Epic%20Semiconductors%20CoOp)
 
 ### Coding/Robotics Instructor
 Skills: Teaching, Coding (Python, Java, Scratch), Robotics (EV3, VEX), 3D Modelling (Sketchup)
