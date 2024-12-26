@@ -2,12 +2,14 @@
 Visual resume and summary of work experience and personal projects
 ## Work Experience
 
-[<img width="400px" src="photos/Sierra Wireless CoOp/module2.jpg" />](https://github.com/armadail/Portfolio/tree/main/photos/Sierra%20Wireless%20CoOp)
+
 ### Sierra Wireless - Hardware Electronics Engineer Co-op
 Skills: ORCAD, Soldering, Jira, Confluence, Hardware testing/Debugging, SMT soldering, 5g Modules, Documentation (test procedures, technical specification)
+[<img width="400px" src="photos/Sierra Wireless CoOp/module2.jpg" />](https://github.com/armadail/Portfolio/tree/main/photos/Sierra%20Wireless%20CoOp)
 
 ### Epic Semiconductors - Application Engieer Co-op
 Skills: TinaTI, Spice, EasyEDA, Analog Design, 
+[<img width="400px" src="photos/Epic Semiconductors CoOp/module2.jpg" />]([https://github.com/armadail/Portfolio/tree/main/photos/Sierra%20Wireless%20CoOp](https://github.com/armadail/Portfolio/tree/main/photos/Epic%20Semiconductors%20CoOp))
 
 ### Coding/Robotics Instructor
 Skills: Teaching, Coding (Python, Java, Scratch), Robotics (EV3, VEX), 3D Modelling (Sketchup)
