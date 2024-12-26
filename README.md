@@ -1,7 +1,7 @@
 # Portfolio
 Visual resume and summary of work experience and personal projects
 ## Work Experience
-
+[<img src="photos/Sierra Wireless CoOp/module2.jpg">](Sierra wireless photo)
 ### Sierra Wireless - Hardware Electronics Engineer Co-op
 Skills: ORCAD, Soldering, Jira, Confluence, Hardware testing/Debugging, SMT soldering, 5g Modules, Documentation (test procedures, technical specification)
 
