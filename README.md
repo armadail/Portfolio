@@ -22,7 +22,7 @@ Skills: Rasperry Pi, sensor fusion (Lidar, Gryoscope, Accelerometer), Matlab (Ba
 
 ### Better Bespoke - Mini Dragons Den Pitch
 Skills: Public Speaking, 3D modelling
-[<img width="400px" src="photos/3D/BetterBespokeBusinesssPitch.png" />]
+[<img width="400px" src="photos/3D/BetterBespokeBusinesssPitch.png" />](https://github.com/armadail/Portfolio/tree/main/photos/3D)
 
 ## Additional Skills
 ### Software - Restaurant Finder App
