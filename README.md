@@ -48,6 +48,7 @@ Skills: Inkscape, SVG design, Leatherworking
 
 # In Progress
 Autodesk Certified Professional in AutoCAD for Design and Drafting
+
 Voisu: Singing based rythm game using FFT Audio decomposition in Godot
 
 
