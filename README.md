@@ -4,10 +4,10 @@ Visual resume and summary of work experience and personal projects
 
 ## Sierra Wireless - Hardware Electronics Engineer Co-op
 Skills: ORCAD, Soldering, Jira, Confluence, 
-Hardware testing and SMT soldering debugging of 5g Modules
+Hardware testing/Debugging, SMT soldering, 5g Modules
 
 ## Epic Semiconductors - Application Engieer Co-op
-Skills: TinaTI, Spice, EasyEDA, 
+Skills: TinaTI, Spice, EasyEDA, Analog Design,
 
 ## Coding/Robotics Instructor
 Skills: Teaching, Coding (Python, Java, Scratch), Robotics (EV3, VEX), 3D Modelling (Sketchup)
