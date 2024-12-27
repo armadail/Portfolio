@@ -34,6 +34,9 @@ Skills: Public Speaking, 3D modelling
 ### Software - Restaurant Finder App
 Skills: Kotlin, Google Maps API, OpenAI API, Android Studio
 
+[<img width="400px" src="photos/SW projects/restaurantfinder.png" />](https://github.com/armadail/Portfolio/blob/main/photos/SW%20projects/restaurantfinder.png)
+
+[Project Link]([url](https://github.com/armadail/RestaurantFinder))
 
 ### Metal Working 
 Skills: Hand Tools, Power tools, Arc Welding, Lathe, Brass Soldering 
