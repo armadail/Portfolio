@@ -16,6 +16,8 @@ Skills: TinaTI, Spice, EasyEDA, Analog Design, microcontroller, wireless power, 
 ### Coding/Robotics Instructor
 Skills: Teaching, Coding (Python, Java, Scratch), Robotics (EV3, VEX), 3D Modelling (Sketchup)
 
+[<img width="400px" src="photos/Robokids/catFeeder.png" />](https://github.com/armadail/Portfolio/tree/main/photos/Robokids)
+
 
 ## Course Work
 ### Capstone Project 
@@ -42,7 +44,7 @@ Skills: Hand Tools, Power tools, Arc Welding, Lathe, Brass Soldering
 ## Laser Cutting
 Skills: Inkscape, SVG design, Leatherworking
 
-
+[<img width="400px" src="photos/leatherworking/watchstrap.png" />](https://github.com/armadail/Portfolio/tree/main/photos/leatherworking)
 
 # Volunteer Work
 
