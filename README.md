@@ -8,6 +8,8 @@ Skills: ORCAD, Soldering, Jira, Confluence, Hardware testing/Debugging, SMT sold
 
 [<img width="400px" src="photos/Sierra Wireless CoOp/module2.jpg" />](https://github.com/armadail/Portfolio/tree/main/photos/Sierra%20Wireless%20CoOp)
 
+Testing and Validation of 5G modules using soldering techiques
+
 ### Epic Semiconductors - Application Engieer Co-op
 Skills: TinaTI, Spice, EasyEDA, Analog Design, microcontroller, wireless power, wireless communication
 
