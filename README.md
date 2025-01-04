@@ -61,7 +61,7 @@ Skills: Inkscape, SVG design, Leatherworking
 
 [<img width="400px" src="photos/leatherworking/watchstrap.png" />](https://github.com/armadail/Portfolio/tree/main/photos/leatherworking)
 
-2D design modelling of watch straps for leatherworking
+2D SVG design of watch straps for leatherworking
 
 # Volunteer Work
 
