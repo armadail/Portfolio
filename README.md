@@ -66,7 +66,7 @@ Skills: Inkscape, SVG design, Leatherworking
 # Volunteer Work
 ## SFU Aerospace Robotics Camp
 
-[<img width="400px" src="photos/volunteer/decode.png" />](https://github.com/armadail/Portfolio/tree/main/photos/volunteer)
+[<img width="400px" src="photos/volunteer/decode.jpeg" />](https://github.com/armadail/Portfolio/tree/main/photos/volunteer)
 
 End of event robotics battle off tournament
 
