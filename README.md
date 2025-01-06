@@ -64,7 +64,11 @@ Skills: Inkscape, SVG design, Leatherworking
 2D SVG design of watch straps for leatherworking
 
 # Volunteer Work
+## SFU Aerospace Robotics Camp
 
+## SFU Sattelie Design Club
+
+## Create Change Fundraiser
 # In Progress
 Autodesk Certified Professional in AutoCAD for Design and Drafting
 
