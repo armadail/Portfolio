@@ -10,7 +10,7 @@ Skills: ORCAD, Soldering, Jira, Confluence, Hardware testing/Debugging, SMT sold
 
 Testing and Validation of 5G modules using soldering techiques
 
-### Epic Semiconductors - Application Engieer Co-op
+### Epic Semiconductors - Application Engineer Co-op
 Skills: TinaTI, Spice, EasyEDA, Analog Design, microcontroller, wireless power, wireless communication
 
 [<img width="400px" src="photos/Epic Semiconductors CoOp/smartbutton2.jpg" />](https://github.com/armadail/Portfolio/tree/main/photos/Epic%20Semiconductors%20CoOp)
