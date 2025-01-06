@@ -66,9 +66,22 @@ Skills: Inkscape, SVG design, Leatherworking
 # Volunteer Work
 ## SFU Aerospace Robotics Camp
 
+[<img width="400px" src="photos/volunteer/decode.png" />](https://github.com/armadail/Portfolio/tree/main/photos/volunteer)
+
+End of event robotics battle off tournament
+
 ## SFU Sattelie Design Club
 
+[<img width="400px" src="photos/volunteer/sfusat.png" />](https://github.com/armadail/Portfolio/tree/main/photos/volunteer)
+
+Tour of the MDA's mission control center with the SFU Sattelite Design team
+
 ## Create Change Fundraiser
+
+[<img width="400px" src="photos/volunteer/createchange.png" />](https://github.com/armadail/Portfolio/tree/main/photos/volunteer)
+
+Pitching at the Create Change Gala and fundraising for girls education in Ghana
+
 # In Progress
 Autodesk Certified Professional in AutoCAD for Design and Drafting
 
