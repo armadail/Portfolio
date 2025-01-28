@@ -40,6 +40,14 @@ Skills: Public Speaking, 3D modelling
 Mini Dragons Den pitch for bespoke shoe manufacturing process using phone app 3d scanning and 3d modelling
 
 ## Additional Skills
+### Mechatronics - Power Supply DIY
+Skills: Buck-boost, Fusion 360, Electronics
+
+
+[Project Link]([url](https://github.com/armadail/powersupplyDIY))
+
+Repurposing an old laptop changer into a bench power supply for electronics projects
+
 ### Software - Restaurant Finder App
 Skills: Kotlin, Google Maps API, OpenAI API, Android Studio
 
