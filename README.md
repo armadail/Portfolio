@@ -43,6 +43,7 @@ Mini Dragons Den pitch for bespoke shoe manufacturing process using phone app 3d
 ### Mechatronics - Power Supply DIY
 Skills: Buck-boost, Fusion 360, Electronics, Animation
 
+[<img width="400px" src="photos/3D/powersupplyDIY.png" />](https://github.com/armadail/Portfolio/tree/main/photos/3D)
 
 [Project Link]([url](https://github.com/armadail/powersupplyDIY))
 
